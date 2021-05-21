@@ -95,7 +95,7 @@ resource "kubernetes_ingress" "it_slack_bot" {
 
   spec {
     rule {
-      host = "${local.name}.dev.use1.greenhouse.io"
+      host = "slackbothere.com"
       http {
         path {
           backend {
