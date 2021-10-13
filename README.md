@@ -11,5 +11,3 @@ The above actions are triggered via slash command.
 ```
 /google unsuspend john.doe@greenhouse.io
 ```
-
-This container is owned by IT.
